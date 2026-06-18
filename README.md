@@ -1,7 +1,7 @@
 
   # PromptHub platform development
 
-  This is a code bundle for PromptHub platform development. The original project is available at https://www.figma.com/design/jsQWRSw4ddQirUJysCvky6/PromptHub-platform-development.
+  This is a code bundle for PromptHub platform development.
 
   ## Running the code
 
